@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_omkar_jadhav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_omkar_jadhav_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omkar jadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar jadhav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omkarjadhav1k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar jadhav" height="30" width="40" /></a>
 <a href="https://fb.com/omkar jadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omkar jadhav" height="30" width="40" /></a>
 <a href="https://instagram.com/omkar._.jadhav1k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omkar._.jadhav1k" height="30" width="40" /></a>
 </p>
