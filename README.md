@@ -1,10 +1,8 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:2563eb&text=Omkar%20Jadhav&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Founder%20%40%20ByTech%20Softwares%20%7C%20Full-Stack%20%26%20Backend%20Engineer&descAlignY=60&descSize=18" width="100%" alt="Omkar Jadhav" />
-
 <a href="https://github.com/omkarjadhav1k">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=640&lines=I+build+software+that+solves+real-world+problems;Founder+%40+ByTech+Softwares;Backend+%26+API+Engineering;SaaS+%7C+Automation+%7C+AI+Integration" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=640&lines=I+build+software+that+solves+real-world+problems;Founder+%40+ByTech+Softwares;Backend+%26+API+Engineering;SaaS+%7C+Automation+%7C+AI+Integration" alt="Typing intro" />
 </a>
 
 <br/>
@@ -115,21 +113,6 @@ open_to:     Collaborations · Client projects · Partnerships
 - 🧠 Integrating **AI** into SaaS products and automation workflows
 - 🎓 Completing my **B.Sc. in Computer Science**
 - 🤝 Open to **collaborations** on meaningful software projects
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
 
 ## 🤝 Work With Me
 
